@@ -1,6 +1,6 @@
 # Red-Store
 
-Responsive website was created using HTML &amp; CSS 
+Sample responsive website was created using HTML &amp; CSS 
 
 
 ## Links
